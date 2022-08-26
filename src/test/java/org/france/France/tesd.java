@@ -4,6 +4,7 @@ public class tesd {
 	
 	private void sysout() {
 		System.out.println("hiii");
+		System.out.println("update");
 
 	}
 
